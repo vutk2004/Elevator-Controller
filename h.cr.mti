@@ -1,0 +1,43 @@
+C:/altera/13.0sp1/elevator/tb_ElevatorFSM_concurrent.v {1 {vlog -work work -stats=none C:/altera/13.0sp1/elevator/tb_ElevatorFSM_concurrent.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module tb_ElevatorFSM_concurrent
+
+Top level modules:
+	tb_ElevatorFSM_concurrent
+
+} {} {}} C:/altera/13.0sp1/elevator/tb_ElevatorFSM_varied.v {1 {vlog -work work -stats=none C:/altera/13.0sp1/elevator/tb_ElevatorFSM_varied.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module tb_ElevatorFSM_varied
+
+Top level modules:
+	tb_ElevatorFSM_varied
+
+} {} {}} C:/altera/13.0sp1/elevator/ElevatorFSM_allcases_tb.v {1 {vlog -work work -stats=none C:/altera/13.0sp1/elevator/ElevatorFSM_allcases_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module ElevatorFSM_allcases_tb
+
+Top level modules:
+	ElevatorFSM_allcases_tb
+
+} {} {}} C:/altera/13.0sp1/elevator/ElevatorFSM.v {1 {vlog -work work -stats=none C:/altera/13.0sp1/elevator/ElevatorFSM.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module ElevatorFSM
+
+Top level modules:
+	ElevatorFSM
+
+} {} {}} C:/altera/13.0sp1/elevator/tb_ElevatorFSM_extended.v {1 {vlog -work work -stats=none C:/altera/13.0sp1/elevator/tb_ElevatorFSM_extended.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module tb_ElevatorFSM_extended
+
+Top level modules:
+	tb_ElevatorFSM_extended
+
+} {} {}} C:/altera/13.0sp1/elevator/tb_ElevatorFSM.v {1 {vlog -work work -stats=none C:/altera/13.0sp1/elevator/tb_ElevatorFSM.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module tb_ElevatorFSM
+
+Top level modules:
+	tb_ElevatorFSM
+
+} {} {}}

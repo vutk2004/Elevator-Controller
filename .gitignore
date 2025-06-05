@@ -1,0 +1,15 @@
+db/
+incremental_db/
+output_files/
+simulation/
+*.bak
+*.rpt
+*.log
+*.smsg
+*.summary
+*.sof
+*.pof
+*.jic
+*.cdf
+*.qws
+*.sdc~
